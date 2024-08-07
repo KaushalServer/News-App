@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/headlinesFragment"
+        android:title="Headlines"
+        android:icon="@drawable/baseline_headlines_24"
+        />
+
+    <item
+        android:id="@+id/favoritesFragment"
+        android:title="Favorites"
+        android:icon="@drawable/baseline_beenhere_24"
+    />
+
+    <item
+        android:id="@+id/searchFragment"
+        android:title="Search"
+        android:icon="@drawable/baseline_youtube_searched_for_24"
+        />
+</menu>
